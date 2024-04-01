@@ -1,0 +1,22 @@
+{
+  "name": "electronjs-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isbrakha/electronjs-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isbrakha/electronjs-tutorial/issues"
+  },
+  "homepage": "https://github.com/isbrakha/electronjs-tutorial#readme",
+  "devDependencies": {
+    "electron": "^29.1.6"
+  }
+}
